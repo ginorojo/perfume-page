@@ -10,7 +10,7 @@ export default function Header({onSearch}) {
       <section className="flex justify-between px-5 pt-5 items-center">
         <div>
          <a href="/">
-           <img className="w-[90%]" src="/image.png" alt="" />
+           <img className="w-[90%]" src="/public/image.png" alt="" />
          </a>
         </div>
         <div className="w-10 ">
