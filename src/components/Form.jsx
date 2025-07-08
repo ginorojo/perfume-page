@@ -198,7 +198,7 @@ export default function ContactForm() {
             className="w-full bg-[#8d258ba2] text-white py-2 px-4 rounded-full hover:bg-[#8d258b72] transition-colors font-semibold flex justify-center items-center gap-2"
           >
             Finalizar compra por WhatsApp
-            <img className="w-5" src="/public/icons8-whatsapp.svg" alt="WhatsApp" />
+            <img className="w-5" src="/icons8-whatsapp.svg" alt="WhatsApp" />
           </button>
         </form>
       </div>

@@ -64,7 +64,7 @@ export default function Cart() {
                       onClick={() => removeFromCart(item.id)}
                       className="cursor-pointer hover:bg-gray-200 rounded-full">
                       <img
-                        src="/public/delete_24dp_1F1F1F_FILL0_wght400_GRAD0_opsz24.svg"
+                        src="/delete_24dp_1F1F1F_FILL0_wght400_GRAD0_opsz24.svg"
                         alt="Eliminar producto"
                       />
                     </button>
