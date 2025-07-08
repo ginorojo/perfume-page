@@ -31,7 +31,7 @@ export default function ProductDetail() {
   return (
     <div>
       <Header />
-      <Filtros />
+      {/* <Filtros /> */}
       <div className='flex py-5 bg-[#f9fafb] h-auto'>
         <div className=" p-4 flex flex-col md:flex-row mx-auto gap-5 w-[90%] md:w-[70%] justify-center items-center m-auto">
           <div className="w-[90%] relative mb-3 overflow-hidden rounded-lg bg-gray-100 border border-gray-300 ">

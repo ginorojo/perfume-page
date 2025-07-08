@@ -23,7 +23,7 @@ export default function Footer() {
             <li><a href="/products" className="hover:text-white transition">Catálogo</a></li>
             <li><a href="/contact" className="hover:text-white transition">Contacto</a></li>
             <li><button className="hover:text-white transition cursor-pointer " 
-            onClick={()=>window.open("/Login","_blank") } >Admin</button>
+            onClick={()=>navigate("/Login") } >Admin</button>
             
             </li>
           </ul>

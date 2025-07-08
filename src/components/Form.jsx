@@ -148,7 +148,6 @@ export default function ContactForm() {
               onChange={(e) => handleInputChange("pais", e.target.value)}
             >
               <option value="Nicaragua">Nicaragua</option>
-              <option value="Chile">Chile</option>
             </select>
           </div>
 
