@@ -10,7 +10,7 @@ export default function Header({onSearch}) {
       <section className="flex justify-between px-5 pt-5 items-center">
         <div>
          <a href="/">
-           <img className="w-[90%]" src="/image.png" alt="" />
+           <img className="w-[90%]" src="image.png" alt="" />
          </a>
         </div>
         <div className="w-10 ">
@@ -23,7 +23,7 @@ export default function Header({onSearch}) {
            <img
             className=" cursor-pointer hover:bg-[#8d258ba2] rounded-full"
             onClick={()=>navigate("/Cart")}
-            src="/public/shopingcart.svg"
+            src="shopingcart.svg"
             alt=""
           />
          </button>
