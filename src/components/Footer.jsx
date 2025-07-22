@@ -8,7 +8,7 @@ export default function Footer() {
       <div className="max-w-6xl mx-auto grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-8">
         {/* Marca */}
         <div>
-          <h2 className="text-xl font-bold text-white mb-3">PerfumeLux</h2>
+          <h2 className="text-xl font-bold text-white mb-3">PerfumeCl</h2>
           <p className="text-gray-400 text-sm">
             Fragancias exclusivas que despiertan tus sentidos y dejan huella.  
             Hechos con pasión, elegancia y detalle.
