@@ -5,6 +5,8 @@ export const instance = axios.create({
     headers: { 'Content-Type': 'application/json' },
     withCredentials: true
 });
+
+
  //http://localhost:3000/api/v1
 //https://backend-perfumes.onrender.com/api/v1
 instance.interceptors.response.use(function (response) {
